@@ -1,0 +1,7 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::cfbc:24d4:9dc:fb5b. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 16 06:09:37.996313 2025] [mpm_winnt:notice] [pid 27264:tid 716] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Sep 16 06:09:37.996313 2025] [mpm_winnt:notice] [pid 27264:tid 716] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Sep 16 06:09:37.996313 2025] [core:notice] [pid 27264:tid 716] AH00094: Command line: 'C:\\Users\\Owner\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Owner/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Owner\\AppData\\Roaming\\Local\\run\\ioaFKTSNZ\\conf\\apache\\apache2.conf'
+[Tue Sep 16 06:09:38.008452 2025] [mpm_winnt:notice] [pid 27264:tid 716] AH00418: Parent: Created child process 15764
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::cfbc:24d4:9dc:fb5b. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::cfbc:24d4:9dc:fb5b. Set the 'ServerName' directive globally to suppress this message
