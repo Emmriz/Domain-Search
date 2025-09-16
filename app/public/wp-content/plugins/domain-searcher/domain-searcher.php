@@ -13,3 +13,9 @@
 
 // Exit if accessed directly
 defined( 'ABSPATH' ) or die( 'Unauthorized Access!' );
+
+add_shortcode( 'emmriztech_domains', 'add_input_form' );
+
+function add_input_form(){ 
+    return '<p>results here</p>';
+}
